@@ -15,7 +15,7 @@ To install this module you will have to slightly enlarge the USB connector openi
 ## KiCad
 
 External footprint
-* USB-C Connector: [USB4085-GF-A ](https://www.snapeda.com/parts/USB4085-GF-A/Global%20Connector%20Technology/view-part/)
+* USB-C Connector: [USB4105-GF-A-060](https://www.snapeda.com/parts/USB4105-GF-A-060/GCT/view-part)
 
 ## PCB Specifications
 | Specification | Value            |
@@ -30,6 +30,6 @@ External footprint
 Parts needed to assemble the PCB.
 | Amount | Part type                    | Part name                                                                     |
 | ------ | ---------------------------- | ----------------------------------------------------------------------------- |
-| 1      | USB2.0 Type C 16+8 connector | [USB4085-GF-A](https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662) |
+| 1      | USB2.0 Type C 16+8 connector | [USB4105-GF-A-060](https://www.digikey.se/sv/products/detail/gct/USB4105-GF-A-060/14559036) |
 | 1      | 1x5 right angle connector    | [2PH1R-05-UAA](https://www.digikey.se/en/products/detail/adam-tech/2PH1R-05-UA/9830981) |
 | 2      | 5.1 kOhms resistor           | [RNMF14FTC5K10](https://www.digikey.se/en/products/detail/stackpole-electronics-inc/RNMF14FTC5K10/2617363) |
